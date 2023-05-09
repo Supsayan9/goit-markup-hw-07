@@ -1581,7 +1581,7 @@ img {
 .ageement-checkbox-text {
   display: block;
 
-  font-size: 12px;
+  font-size: 8px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: var(--subtitle-text);
