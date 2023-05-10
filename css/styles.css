@@ -1586,7 +1586,11 @@ img {
   letter-spacing: 0.04em;
   color: var(--subtitle-text);
 }
-
+@media screen and (min-width: 428px) {
+  .ageement-checkbox-text {
+    font-size: 12px;
+  }
+}
 .privacy-policy-link {
   color: var(--primary-brand-color);
 }
